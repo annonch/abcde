@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Motivation}{3}{section.2}
+\contentsline {section}{\numberline {3}Components}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}User Interface}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Contract Setup}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Order Matching}{5}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}External Data Source Contract}{5}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Clearinghouse Contract}{6}{subsection.3.5}
+\contentsline {section}{\numberline {4}Summary}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Conclusion}{7}{subsection.4.1}

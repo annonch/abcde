@@ -1,0 +1,97 @@
+{
+  "contractName": "OrderMatching",
+  "abi": [],
+  "bytecode": "0x60606040523415600e57600080fd5b603580601b6000396000f3006060604052600080fd00a165627a7a723058205c5f77b573fe5bbcae11c500e4ea7b58a8db4be39e2bee0ea2d63db6c2382d500029",
+  "deployedBytecode": "0x6060604052600080fd00a165627a7a723058205c5f77b573fe5bbcae11c500e4ea7b58a8db4be39e2bee0ea2d63db6c2382d500029",
+  "sourceMap": "80:27:3:-;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "80:27:3:-;;;;;",
+  "source": "pragma solidity ^0.4.2;\n\n\n// copyright abcde llc\n// author: Christopher Hannon\n\ncontract OrderMatching {\n\n}\n\n",
+  "sourcePath": "/Users/nc/B/deriviblock/Proposal_CSPSE/bchain/dev/dapp_futures/contracts/OrderMatching.sol",
+  "ast": {
+    "absolutePath": "/Users/nc/B/deriviblock/Proposal_CSPSE/bchain/dev/dapp_futures/contracts/OrderMatching.sol",
+    "exportedSymbols": {
+      "OrderMatching": [
+        464
+      ]
+    },
+    "id": 465,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 463,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".2"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:3"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 464,
+        "linearizedBaseContracts": [
+          464
+        ],
+        "name": "OrderMatching",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 465,
+        "src": "80:27:3"
+      }
+    ],
+    "src": "0:109:3"
+  },
+  "legacyAST": {
+    "absolutePath": "/Users/nc/B/deriviblock/Proposal_CSPSE/bchain/dev/dapp_futures/contracts/OrderMatching.sol",
+    "exportedSymbols": {
+      "OrderMatching": [
+        464
+      ]
+    },
+    "id": 465,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 463,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".2"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:3"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 464,
+        "linearizedBaseContracts": [
+          464
+        ],
+        "name": "OrderMatching",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 465,
+        "src": "80:27:3"
+      }
+    ],
+    "src": "0:109:3"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.19+commit.c4cbbb05.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "2.0.0",
+  "updatedAt": "2018-04-22T14:29:44.262Z"
+}

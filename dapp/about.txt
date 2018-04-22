@@ -1,0 +1,40 @@
+Source:
+
+youtube: How to Build Ethereum Dapp (Decentralized Application Development Tutorial) - dapp university
+
+
+Notes:
+Procedure to deploy contract
+
+p1:
+add contract in contracts
+
+add file in migrations
+
+truffle migrate to deploy
+
+truffle console to open console
+
+Election.deployed().then(function(instance) {app=instance})
+
+When change code for dev purpose need new contract deployment
+
+p2:
+truffle migrate --reset
+
+truffle console
+app.candidates(1).then(function(c){candidate=c;})
+web3.eth.accounts
+web3.eth.accounts[1]
+
+
+
+p3: add tests
+truffle test
+
+
+p4: add voters
+
+----- Other -----
+
+Reads are free on blockcahin but writes take gas
